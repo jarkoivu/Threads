@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Threads</string>
+    <string name="i_will_change">I will change</string>
+    <string name="click_me">Click Me</string>
+</resources>
